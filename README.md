@@ -102,7 +102,7 @@ bash <(curl -L https://tinyurl.com/ALEXA-session)
 
 ### [NOTE ❓]
 ```
-Amazone Alexa bot ගොඩනැගීමට ඔබට ජංගම දුරකථන 2 ක් අවශ්‍ය වේ!
+alicia  bot ගොඩනැගීමට ඔබට ජංගම දුරකථන 2 ක් අවශ්‍ය වේ!
 ඔබ දෙවන උපාංගයෙන් bot ක්‍රියා කරනු ඇත. 
 ඔබ පළමු උපාංගය සමඟ පමණක් QR කේතය generate කරනු ඇත.
 පළමු උපාංගයෙන් ඔබට Amazone Bot install කිරීමට අවශ්‍යයි..
@@ -148,13 +148,13 @@ Amazone Alexa bot ගොඩනැගීමට ඔබට ජංගම දුර�
 ```
 පරිශීලක බොට් නිසා; ඔබගේ WhatsApp ගිණුම banned කළ හැකිය.
 මෙය විවෘත මූලාශ්‍ර ව්‍යාපෘතියකි, ඔබ කරන සෑම දෙයකටම ඔබ වගකිව යුතුය. 
-නියත වශයෙන්ම,Neotro-x  විධායකයන් වගකීම භාර නොගනී.
+නියත වශයෙන්ම,alicia  විධායකයන් වගකීම භාර නොගනී.
 neotro-x  පිහිටුවීමෙන් ඔබ මෙම වගකීම් භාරගෙන ඇති බව සලකනු ලැබේ.
 ```
 
 ## 👨‍💻Developer
 
-[![Chethana_Broh-TeenuhX](https://github.com/tenuh.png?size=100)](https://https://youtu.be/mcEeIspWOpY)
+[![𝚌𝚑𝚊𝚝𝚑𝚞𝚛 𝚙𝚛𝚊𝚋𝚊𝚜𝚑𝚠𝚊𝚛𝚊](https://github.com/tenuh.png?size=100)](https://https://youtu.be/mcEeIspWOpY)
 
  ***ᴄʜᴇᴛʜᴀɴᴀ_ʙʀᴏ(Teenuh-X😈)***
 <a href="https://Wa.me/+94766598862">
@@ -182,7 +182,7 @@ neotro-x  පිහිටුවීමෙන් ඔබ මෙම වගකීම�
 [![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-red.svg)](https://Wa.me/+94766598862)
 
 
-### 🚀Amazone Alexa Team
+### 🚀𝚊𝚕𝚒𝚌𝚒𝚊 𝚋𝚘𝚝 Team
 
 [![Find On Telegram ](https://img.shields.io/badge/Ramilka-Rodrigo-blue.svg)](https://t.me/ramiya_yt) [![Encuizer ](https://img.shields.io/badge/En-Cuizer-blue.svg)](https://Wa.me/+94725549179) [![Find On Whatsapp ](https://img.shields.io/badge/Chamee-blue.svg)](https://Wa.me/)
 [![Find On Whatsapp ](https://img.shields.io/badge/Hazel-Safron-blue.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/Rashid-Riyaz-blue.svg)](https://Wa.me/+17723534981) [![Find On Whatsapp ](https://img.shields.io/badge/mr.freez-blue.svg)](https://Wa.me/)
