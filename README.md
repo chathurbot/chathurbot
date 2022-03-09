@@ -189,7 +189,7 @@ neotro-x  පිහිටුවීමෙන් ඔබ මෙම වගකීම�
 [![Find On Whatsapp ](https://img.shields.io/badge/Lithira-Ransika-blue.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/Lucifer-blue.svg)](https://Wa.me/)
 [![Find On Whatsapp ](https://img.shields.io/badge/Akash-thevidu-blue.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/Josh-Mardown-blue.svg)](https://Wa.me/)
 [![Find On Whatsapp ](https://img.shields.io/badge/Ganster-blue.svg)](https://Wa.me/)
-### 📑Amozon Support Groups
+### 📑alicia Support Groups
 
 [![Find On Whatsapp ](https://img.shields.io/badge/Amazon-Plugins-red.svg)](https://chat.whatsapp.com/JJs2iwfF0VKL3IWrIyr7AT)
 [![Find On Whatsapp ](https://img.shields.io/badge/Amazone-Support01-blue.svg)](https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX)
